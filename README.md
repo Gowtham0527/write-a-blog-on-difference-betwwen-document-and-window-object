@@ -1,0 +1,1 @@
+# write-a-blog-on-difference-betwwen-document-and-window-object
